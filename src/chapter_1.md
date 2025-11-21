@@ -3,4 +3,8 @@
 Hellooooo
 
 
-DIT IS TEKST
+```plantuml
+@startuml
+Bert -> Ernie: Hoi
+@enduml
+```
