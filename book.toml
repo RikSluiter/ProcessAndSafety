@@ -3,3 +3,6 @@ authors = ["Rik Sluiter"]
 language = "en"
 src = "src"
 title = "PandCMDBOOK"
+
+[preprocessor.plantuml]
+plantuml-cmd="http://localhost:8080"
